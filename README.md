@@ -45,7 +45,7 @@ nb_anacondacloud
 
 ## CUDA, cuDNN
 
-* (출처: http://luke77.tistory.com/44)
+* (출처: http://ishuca.tistory.com/entry/Ubuntu-1404-%EC%97%90%EC%84%9C-%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4%EC%97%90-Tensorflow-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0 or http://luke77.tistory.com/44)
 
 
 * **CUDA 설치** tensorflow가 요구하는 사양맞춰 https://developer.nvidia.com/cuda-downloads
