@@ -23,7 +23,7 @@
 9. nvidia -smi, nvidia-setting
 
 
-* **무한로그인(출처: http://jangjy.tistory.com/260)**
+* **무한로그인(출처:http://man-about-town.tistory.com/45)**
 
 
 1. ctrl + alt + f1
@@ -54,14 +54,14 @@ nb_anacondacloud
 1. sudo sh cuda_7.5.18_linux.run —override
 
 
-    -EULA 동의 : accept
-    -You are attempting to install on an unsupported configuration. Do you with to continue? : yes
-    -Install NVIDIA Accelerated Graphics Driver for Linux-x86_64 352.39 ? no (이미 설치했음)
-    -Install the CUDA 7.5 Toolkit? yes
-    -Enter Toolkit Location : Enter (default)
-    -Do you want to install a symbolic link at /usr/local/cuda ? yes
-    -Install the CUDA 7.5 Samples? no
-    -Enter CUDA Samples Location : Enter (default)
+	    -EULA 동의 : accept
+	    -You are attempting to install on an unsupported configuration. Do you with to continue? : yes
+	    -Install NVIDIA Accelerated Graphics Driver for Linux-x86_64 352.39 ? no (이미 설치했음)
+	    -Install the CUDA 7.5 Toolkit? yes
+	    -Enter Toolkit Location : Enter (default)
+	    -Do you want to install a symbolic link at /usr/local/cuda ? yes
+	    -Install the CUDA 7.5 Samples? no
+	    -Enter CUDA Samples Location : Enter (default)
     
     
 2. export LD_LIBRARY_PATH=”$LD_LIBRARY_PATH:/usr/local/cuda/lib64”
