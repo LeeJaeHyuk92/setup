@@ -18,7 +18,7 @@
 4. sudo reboot
 5. ctrl + alt + F1
 6. sudo service lightdm stop
-7. sudo ./NVIDIA-Linux-x86_64 —— .run
+7. sudo sh NVIDIA-Linux-x86_64 —— .run
 8. sudo reboot
 9. nvidia -smi, nvidia-setting
 
