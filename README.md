@@ -23,7 +23,7 @@
 9. nvidia -smi, nvidia-setting
 
 
-* **무한로그인(출처:http://man-about-town.tistory.com/45)**
+* **무한로그인(출처:http://man-about-town.tistory.com/45 or http://m.blog.naver.com/dusrb2003/220549096442)**
 
 
 1. ctrl + alt + f1
