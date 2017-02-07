@@ -1,7 +1,11 @@
+first : https://zapary.blogspot.kr/2014/08/ubuntu-recovery-mode.html
+
+second : http://ishuca.tistory.com/entry/Ubuntu-1404-%EC%97%90%EC%84%9C-%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4%EC%97%90-Tensorflow-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
+
 
 ## Ubuntu
 
-* **NVIDIA install**
+* **NVIDIA install**( https://zapary.blogspot.kr/2014/08/ubuntu-recovery-mode.html)
 
 
 1. sudo gedit /etc/modprobe.d/blacklist.conf
@@ -13,7 +17,7 @@
 		blacklist nvidiafb
 		blacklist rivatv
     
-2. sudo apt-get —purge remove xserver-xorg-video-nouveau
+2. -- do not!!! sudo apt-get —purge remove xserver-xorg-video-nouveau 
 3. sudo update-initramfs -u
 4. sudo reboot
 5. ctrl + alt + F1
