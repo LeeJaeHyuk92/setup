@@ -33,12 +33,12 @@ second : http://ishuca.tistory.com/entry/Ubuntu-1404-%EC%97%90%EC%84%9C-%EC%95%8
 9. nvidia -smi, nvidia-setting
 
 
-* **무한로그인(출처:http://man-about-town.tistory.com/45 or http://m.blog.naver.com/dusrb2003/220549096442)**
+* **무한로그인(출처:http://unix.stackexchange.com/questions/341920/fix-nvidia-drivers-in-ubuntu-16-04-when-getting-the-stopping-user-manager-for-u or http://man-about-town.tistory.com/45 or http://m.blog.naver.com/dusrb2003/220549096442)**
 
-
-1. ctrl + alt + f1
-2. sudo apt-get remove --purge nvidia*
-
+1. NVIDIA, CUDA uninstall
+2. grub - advanced...mode
+3. reinstall nvidia
+4. reboot
 
 * **한글입력**
 
